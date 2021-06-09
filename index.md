@@ -257,7 +257,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/18v1cwpLQBOKAqqR_qAJwW58LbI4dOOvA4sALYdBp4AA/viewform?edit_requested=true">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 
 <hr/>

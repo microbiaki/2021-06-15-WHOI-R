@@ -246,7 +246,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://docs.google.com/document/d/1DHIcl2G4bbFFh6Hx3f5YIXMU6O4rwqyBVYLMuJEE5ew/edit">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
@@ -258,7 +258,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="https://docs.google.com/forms/d/18v1cwpLQBOKAqqR_qAJwW58LbI4dOOvA4sALYdBp4AA/viewform?edit_requested=true">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/1Y2E0xTwgera5WlNMxRS8PrVzgDozNjRzxNOqckpFFx4/viewform?edit_requested=true">Post-workshop Survey</a></p>
 
 <hr/>
 

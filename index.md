@@ -314,11 +314,12 @@ please preview your site before committing, and make sure to run
 {% comment %}
 OTHER USEFUL MATERIAL
 {% endcomment %}
-<h2 id="Other Useful Material">Material</h2>
+<h2 id="Other Useful Material">Other Useful Material</h2>
 <p>The following material might be useful.</p>
-<p><a href="https://docs.google.com/forms/d/18v1cwpLQBOKAqqR_qAJwW58LbI4dOOvA4sALYdBp4AA/viewform?edit_requested=true">Pre-workshop Survey</a></p>
-<p><a href="https://docs.google.com/forms/d/1Y2E0xTwgera5WlNMxRS8PrVzgDozNjRzxNOqckpFFx4/viewform?edit_requested=true">Post-workshop Survey</a></p>
+<p><a href="https://drive.google.com/file/d/12Kolme3JRn6FZOm2xDTv1y748CzwfD12/view?usp=sharing">R-base cheat-sheet</a></p>
+<p><a href="https://drive.google.com/file/d/1wijkEpVaOUu_9PfUFeDHtOR_50v4sUls/view?usp=sharing">R Language Definition</a></p>
 
+<hr/>
 
 {% comment %}
 SETUP

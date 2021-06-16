@@ -346,7 +346,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
+  In addition, you will need an up-to-date web browser. During the course, we will use the gapminder dataset; you can download it here <a href=https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv> here </a>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
